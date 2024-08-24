@@ -1,16 +1,9 @@
 # Predicting_Heart_Disease_Using_ML
-{
- "cells": [
-  {
-   "cell_type": "markdown",
-   "metadata": {},
-   "source": [
-    "# Predicting Heart Diesease Using ML\n",
-    "This projects aims to utilize various Python-based machine learning and data science libraries to build a machine learning model capable of predicting if a patient has heart disease or not based on their medical attributes\n",
-    "\n",
-    "# Data Source \n",
-    "The Cleavland data from the UCI Machine Learning Repository. https://archive.ics.uci.edu/ml/datasets/heart+Disease\n",
-    "\n",
+    "This projects aims to utilize various Python-based machine learning and data science libraries to build a machine learning model capable of predicting if a patient has heart disease or not based on their medical attributes
+    
+  # Data Source - 
+  "The Cleavland data from the UCI Machine Learning Repository. https://archive.ics.uci.edu/ml/datasets/heart+Disease\n",
+  
     "# Data Features\n",
     "1. age - age in years\n",
     "2. sex - (1 = male; 0 = female)\n",
@@ -48,7 +41,7 @@
     "    7: reversable defect: no proper blood movement when excercising\n",
     "14. target - have disease or not (1=yes, 0=no) (= the predicted attribute)\n",
     "\n",
-    "# Goal\n",
+  
+  Goal 
     "95% - 100% Accuracy of the model\n"
-   ]
-  },
+  
