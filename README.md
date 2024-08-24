@@ -4,7 +4,7 @@
   # Data Source - 
   "The Cleavland data from the UCI Machine Learning Repository. https://archive.ics.uci.edu/ml/datasets/heart+Disease\n",
   
-    "# Data Features\n",
+# Data Features
     "1. age - age in years\n",
     "2. sex - (1 = male; 0 = female)\n",
     "3. cp - chest pain type\n",
@@ -39,9 +39,8 @@
     "    1,3: normal\n",
     "    6: fixed defect: used to be defect but ok now\n",
     "    7: reversable defect: no proper blood movement when excercising\n",
-    "14. target - have disease or not (1=yes, 0=no) (= the predicted attribute)\n",
-    "\n",
+    "14. target - have disease or not (1=yes, 0=no) (= the predicted attribute)
   
-  Goal 
+  # Goal 
     "95% - 100% Accuracy of the model\n"
   
