@@ -1,5 +1,5 @@
 # Predicting_Heart_Disease_Using_ML
-    "This projects aims to utilize various Python-based machine learning and data science libraries to build a machine learning model capable of predicting if a patient has heart disease or not based on their medical attributes
+"This projects aims to utilize various Python-based machine learning and data science libraries to build a machine learning model capable of predicting if a patient has heart disease or not based on their medical attributes"
     
   # Data Source - 
   "The Cleavland data from the UCI Machine Learning Repository. https://archive.ics.uci.edu/ml/datasets/heart+Disease\n",
