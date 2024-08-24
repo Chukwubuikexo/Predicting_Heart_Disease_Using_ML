@@ -19,27 +19,27 @@ This projects aims to utilize various Python-based machine learning and data sci
 6. fbs - (fasting blood sugar > 120 mg/dl) (1 = true; 0 = false)
     "    '>126' mg/dL signals diabetes
 7. restecg - resting electrocardiographic results
-    "    0: Nothing to note
-    "    1: ST-T Wave abnormality
+    *0: Nothing to note
+    *1: ST-T Wave abnormality
     "       can range from mild symptoms to severe problems
     "       signals non-normal heart beat
-    "    2: Possible or definite left ventricular hypertrophy
-    "        Enlarged heart's main pumping chamber
-8. thalach - maximum heart rate achieved
-9. exang - exercise induced angina (1 = yes; 0 = no)
-10. oldpeak - ST depression induced by exercise relative to rest looks at stress of heart during excercise unhealthy heart will stress more
-11. slope - the slope of the peak exercise ST segment
+    *2: Possible or definite left ventricular hypertrophy
+        Enlarged heart's main pumping chamber
+9. thalach - maximum heart rate achieved
+10. exang - exercise induced angina (1 = yes; 0 = no)
+11. oldpeak - ST depression induced by exercise relative to rest looks at stress of heart during excercise unhealthy heart will stress more
+12. slope - the slope of the peak exercise ST segment
     "    0: Upsloping: better heart rate with excercise (uncommon)
     "    1: Flatsloping: minimal change (typical healthy heart)
     "    2: Downslopins: signs of unhealthy heart
-12. ca - number of major vessels (0-3) colored by flourosopy
+13. ca - number of major vessels (0-3) colored by flourosopy
     "    colored vessel means the doctor can see the blood passing through
     "    the more blood movement the better (no clots)
-13. thal - thalium stress result
+14. thal - thalium stress result
     "    1,3: normal
     "    6: fixed defect: used to be defect but ok now
     "    7: reversable defect: no proper blood movement when excercising
-14. target - have disease or not (1=yes, 0=no) (= the predicted attribute)
+15. target - have disease or not (1=yes, 0=no) (= the predicted attribute)
   
 # Goal 
 "95% - 100% Accuracy of the model\n"
