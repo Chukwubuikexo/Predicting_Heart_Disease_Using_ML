@@ -1,19 +1,19 @@
 # Predicting_Heart_Disease_Using_ML
-"This projects aims to utilize various Python-based machine learning and data science libraries to build a machine learning model capable of predicting if a patient has heart disease or not based on their medical attributes"
+This projects aims to utilize various Python-based machine learning and data science libraries to build a machine learning model capable of predicting if a patient has heart disease or not based on their medical attributes
     
   # Data Source - 
-  "The Cleavland data from the UCI Machine Learning Repository. https://archive.ics.uci.edu/ml/datasets/heart+Disease\n",
+  The Cleavland data from the UCI Machine Learning Repository. https://archive.ics.uci.edu/ml/datasets/heart+Disease
   
 # Data Features
-    "1. age - age in years\n",
-    "2. sex - (1 = male; 0 = female)\n",
-    "3. cp - chest pain type\n",
-    "    0: Typical angina: chest pain related decrease blood supply to the heart\n",
-    "    1: Atypical angina: chest pain not related to heart\n",
-    "    2: Non-anginal pain: typically esophageal spasms (non heart related)\n",
-    "    3: Asymptomatic: chest pain not showing signs of disease\n",
-    "4. trestbps - resting blood pressure (in mm Hg on admission to the hospital) anything above 130-140 is typically cause for concern\n",
-    "5. chol - serum cholestoral in mg/dl\n",
+1. age - age in years
+2. sex - (1 = male; 0 = female)
+3. cp - chest pain type\
+    "    0: Typical angina: chest pain related decrease blood supply to the heart
+    "    1: Atypical angina: chest pain not related to heart
+    "    2: Non-anginal pain: typically esophageal spasms (non heart related)
+    "    3: Asymptomatic: chest pain not showing signs of disease
+4. trestbps - resting blood pressure (in mm Hg on admission to the hospital) anything above 130-140 is typically cause for concern\n",
+5. chol - serum cholestoral in mg/dl\n",
     "    serum = LDL + HDL + .2 * triglycerides\n",
     "    above 200 is cause for concern\n",
     "6. fbs - (fasting blood sugar > 120 mg/dl) (1 = true; 0 = false)\n",
